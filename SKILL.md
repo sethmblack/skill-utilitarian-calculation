@@ -4,7 +4,7 @@ description: Apply Mill's Greatest Happiness Principle to evaluate actions, poli
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5255
+  version: 1.0.5256
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - utilitarian-calculation
